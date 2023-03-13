@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.titulo{
+    background-color: rgba(35, 102, 141, 0.744);
+    font-size: larger;
+    font-weight: 250px;
+    margin: 250px;
+}
+
+.menu{
+    background: blueviolet;
+    font-size: 1.4em;
+    font-weight: bold;
+    padding: 8px 15px;
+}
